@@ -1,0 +1,58 @@
+
+body {
+    background-image: url('../imagenes/fondo.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Questrial', sans-serif;
+    font-family: 'PT Sans Caption', sans-serif;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+h2{
+    text-align: center;
+    color: white;
+    margin-bottom: 5px;
+}
+
+h3{
+    margin-top: 5px;
+    color: #f7f9f2;
+}
+
+p{
+    text-align: justify;
+    color: #f7f9f2;
+    margin: 15px;
+}
+
+.advisor{
+    margin-bottom: 5px;
+    margin-top: 2px;
+    margin-left: 2px;
+    margin-right: 2px;
+    text-align: center ;
+}
+
+p a{
+    color: white;
+    margin: 5px;
+}
+
+.footer{
+    text-align: center;
+}

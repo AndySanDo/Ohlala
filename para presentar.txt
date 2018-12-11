@@ -1,0 +1,19 @@
+Estado actual de la página
+
+Hay tres aspectos importantes:
+
+1.- En la visualización de la página en celular, tablet, monitor y TV; no se adapta la página aunque no se desbordan los elementos.
+2.- El menú no es adaptable.
+3.- Es una página muy estática y el diseño no se apega mucho a lo que quiere representar.
+
+
+
+Detalles de visualización
+
+El sitio actualmente está hecho de manera manual, no se ve que se haya utilizado algún repositorio.
+La página web "Oh lala! by George" no es responsivo.
+Para el tipo de negocio que quiere representar, el diseño de la página no es llamativa.
+Algunos elementos de la página no encontramos el sentido del por qué está ahí.
+Hay elementos que llevan al mismo enlace.
+Hay poca información de la página, sobre todo en el Index.
+
